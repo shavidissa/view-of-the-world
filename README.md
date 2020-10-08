@@ -12,6 +12,7 @@ Hello, let's get started!
     #clone the repository
     git clone https://github.com/<ENTER_USERNAME>/view-of-the-world.git
     ```
+1. [Test] Line 3
 1. Navigate into the directory you just cloned. Typically, it would be view-of-the-world.
     ```
     cd view-of-the-world
@@ -22,3 +23,6 @@ Hello, let's get started!
     git remote add upstream https://github.com/shavidissa/view-of-the-world.git
     ```
  1. Again, run `git remote -v` and you see both the origin and upstream.
+
+[Test] Line 1
+[Test] Line 2
