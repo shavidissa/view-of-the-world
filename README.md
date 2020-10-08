@@ -24,3 +24,4 @@ Hello, let's get started!
  1. Again, run `git remote -v` and you see both the origin and upstream.
 
 [Test] Line 1
+[Test] Line 2
