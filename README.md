@@ -12,6 +12,7 @@ Hello, let's get started!
     #clone the repository
     git clone https://github.com/<ENTER_USERNAME>/view-of-the-world.git
     ```
+1. [Test] Line 3
 1. Navigate into the directory you just cloned. Typically, it would be view-of-the-world.
     ```
     cd view-of-the-world
